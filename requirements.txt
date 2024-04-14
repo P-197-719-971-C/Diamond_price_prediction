@@ -1,0 +1,7 @@
+pandas
+numpy
+flask
+streamlit
+seaborn
+scikit-learn==1.2.2
+#-e .
